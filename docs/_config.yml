@@ -1,11 +1,8 @@
 # Resources settings
 source:      .
-layouts:     ./_layouts
+layouts_dir:     ./_layouts
 timezone:    +0800
-lang: zh-EN
-gems: ['jekyll-paginate', 'jekyll-multiple-languages']
-languages: ['en']
-language_default: 'en'
+plugins: ['jekyll-paginate']
 
 # Site settings
 email: andrew.petersen@utoronto.ca
