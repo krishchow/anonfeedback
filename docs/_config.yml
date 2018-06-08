@@ -2,17 +2,17 @@
 source:      .
 layouts:     ./_layouts
 timezone:    +0800
-lang: zh-CN
+lang: zh-EN
 gems: ['jekyll-paginate', 'jekyll-multiple-languages']
 languages: ['en']
 language_default: 'en'
 
 # Site settings
-email: 1540294142@qq.com
-author: Joytou Wu
-url: https://joytou.github.io
+email: andrew.petersen@utoronto.ca
+author: Andrew Petersen
+url: https://utmandrew.github.io/anonfeedback/
 
-github: https://github.com/joytou/
+github: https://github.com/utmandrew/anonfeedback
 baseurl: ""
 
 future: true
@@ -28,19 +28,15 @@ excerpt_separator: '<!-- more -->'
 
 exclude: ['README.md']
 
-github_username: joytou
-owner_name: Joytou
+github_username: utmandrew
+owner_name: Andrew
 
 # Keywords
 keywords:
-        - "github"
-        - "bootstrap"
-        - "blog"
-        - "joytou"
-        - "markdown"
-        - "博客"
-        - "个人博客"
-        - "博客模板"
+        - "anonymous feedback"
+        - "UTM"
+        - "Toronto"
+        - "Mathematical and Computational Sciences"
         
 #Others
 BaiduSiteVerification: "lLhmCmVmTf"
